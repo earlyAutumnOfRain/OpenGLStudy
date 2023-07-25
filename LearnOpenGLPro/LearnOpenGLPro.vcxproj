@@ -80,8 +80,8 @@
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
     <LinkIncremental>true</LinkIncremental>
-    <IncludePath>G:\StudyCode\LearnOpenGLPro\LearnOpenGLPro\LearnOpenGLPro\include;$(IncludePath)</IncludePath>
-    <LibraryPath>G:\StudyCode\LearnOpenGLPro\LearnOpenGLPro\LearnOpenGLPro\lib;$(LibraryPath)</LibraryPath>
+    <IncludePath>G:\StudyCode\LearOpenGLGit\OpenGLStudy\LearnOpenGLPro\include;$(IncludePath)</IncludePath>
+    <LibraryPath>G:\StudyCode\LearOpenGLGit\OpenGLStudy\LearnOpenGLPro\lib;$(LibraryPath)</LibraryPath>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
     <LinkIncremental>false</LinkIncremental>
